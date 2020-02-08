@@ -142,7 +142,7 @@ TEMPLATE_DIRS = (
 STATICFILES_DIRS = (
      os.path.join(BASE_DIR, 'static'),
 )
-STATIC_ROOT= '/home/username/projects/site/assets/'
+#STATIC_ROOT= '/home/username/projects/site/assets/'
 
 STATIC_URL = '/static/'
 
