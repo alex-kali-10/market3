@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1970f171-a7f7-446d-9580-bf8dff04e952" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="market" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VRBEfLOW23MjxY9aRbjDMnx0Yq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alex_kali\PycharmProjects\market\main_page" />
+      <recent name="C:\Users\alex_kali\PycharmProjects\market\api" />
+      <recent name="C:\Users\alex_kali\PycharmProjects\market\main_page\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1970f171-a7f7-446d-9580-bf8dff04e952" name="Default Changelist" comment="" />
+      <created>1577042703509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577042703509</updated>
+      <workItem from="1577207150081" duration="7946000" />
+      <workItem from="1577227953311" duration="12320000" />
+      <workItem from="1577249514428" duration="614000" />
+      <workItem from="1577295904129" duration="623000" />
+      <workItem from="1577299614917" duration="9140000" />
+      <workItem from="1577325246502" duration="1551000" />
+      <workItem from="1577328008472" duration="1635000" />
+      <workItem from="1577385405479" duration="1180000" />
+      <workItem from="1577401103443" duration="79588000" />
+      <workItem from="1578120862244" duration="1858000" />
+      <workItem from="1578122620879" duration="10676000" />
+      <workItem from="1578300249176" duration="5273000" />
+      <workItem from="1578306677273" duration="6339000" />
+      <workItem from="1578314990565" duration="7768000" />
+      <workItem from="1578390738848" duration="12891000" />
+      <workItem from="1578483352149" duration="3358000" />
+      <workItem from="1578541890789" duration="2000" />
+      <workItem from="1578542055147" duration="25217000" />
+      <workItem from="1578703241573" duration="13673000" />
+      <workItem from="1578816129406" duration="17242000" />
+      <workItem from="1578836911154" duration="3825000" />
+      <workItem from="1578906240891" duration="3748000" />
+      <workItem from="1578996006549" duration="23228000" />
+      <workItem from="1579090355639" duration="15602000" />
+      <workItem from="1579107151469" duration="40263000" />
+      <workItem from="1579249046578" duration="18362000" />
+      <workItem from="1579353872618" duration="12219000" />
+      <workItem from="1579373953668" duration="3730000" />
+      <workItem from="1579427551398" duration="18982000" />
+      <workItem from="1579469466613" duration="615000" />
+      <workItem from="1579546748041" duration="625000" />
+      <workItem from="1579618107269" duration="4024000" />
+      <workItem from="1579636291476" duration="611000" />
+      <workItem from="1579701790424" duration="2186000" />
+      <workItem from="1579725470875" duration="745000" />
+      <workItem from="1579811878428" duration="19223000" />
+      <workItem from="1580045519894" duration="12388000" />
+      <workItem from="1580154413919" duration="9281000" />
+      <workItem from="1580178147989" duration="15111000" />
+      <workItem from="1580322577809" duration="5293000" />
+      <workItem from="1580342105822" duration="13757000" />
+      <workItem from="1580511602555" duration="2323000" />
+      <workItem from="1580599452981" duration="1291000" />
+      <workItem from="1580685927694" duration="12395000" />
+      <workItem from="1580784131472" duration="20695000" />
+      <workItem from="1580822273409" duration="624000" />
+      <workItem from="1580882245940" duration="22174000" />
+      <workItem from="1580964844740" duration="38180000" />
+      <workItem from="1581145825604" duration="1374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sass" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="177" key="#Notifications" timestamp="1578703321256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1578703321256" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1579433397094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579433397094" />
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1577205928325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577205928325" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup" timestamp="1578134251610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578134251610" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1579454407235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579454407235" />
+  </component>
+</project>

@@ -1,0 +1,106 @@
+/*sprite with stars*/
+#reviewStars-input input:checked ~ label, #reviewStars-input label, #reviewStars-input label:hover, #reviewStars-input label:hover ~ label {
+    background: url('http://positivecrash.com/wp-content/uploads/ico-s71a7fdede6.png') no-repeat;
+    background-size: cover;
+}
+
+#reviewStars-input {
+
+    /*fix floating problems*/
+    overflow: hidden;
+    *zoom: 1;
+    /*end of fix floating problems*/
+    float: left;
+}
+
+.star{
+    display: block;
+    width: 100%;
+    height: 80px;
+    font-family: 'Bad Script', cursive;
+    color: rgb(200,200,200);
+}
+.star-6{
+    display: block;
+    width: 100%;
+    height: 30px;
+    font-family: 'Bad Script', cursive;
+    color: rgb(200,200,200);
+    position: relative;
+    font-weight: 600;
+}
+
+.star1{
+    left:18px;
+    width: 380px;
+    position: relative;
+    font-weight: 600;
+}
+.star2{
+    display: block;
+    position: absolute;
+    left: 160px;
+    border: 1px solid rgb(200,200,200);
+    cursor: pointer;
+    padding: 5px;
+    top:-3px;
+}
+
+.star3{
+    display: block;
+    width: 130px;
+    position: absolute;
+    left:5px;
+    top:38px;
+    text-align: center;
+}
+.star4{
+    display: block;
+    width: 130px;
+    position: absolute;
+    left:150px;
+    top:38px;
+    text-align: center;
+}
+.star-6 .star4{
+    top:0px;
+}
+.star-6 .star3{
+    top:0px;
+}
+#reviewStars-input input {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+
+    width: 20px;
+    height: 20px;
+
+    position: absolute;
+    top: 0;
+    z-index: 0;
+}
+
+#reviewStars-input input:checked ~ label {
+    background-position: 0 -18px;
+    height: 9px;
+    width: 5px;
+}
+
+#reviewStars-input label {
+    background-position: 0 0;
+    height: 9px;
+    width: 5px;
+    float: right;
+    cursor: pointer;
+    margin-right: 10px;
+
+    position: relative;
+    z-index: 1;
+}
+
+#reviewStars-input label:hover, #reviewStars-input label:hover ~ label {
+    background-position: 0 -18px;
+    height: 9px;
+    width: 5px;
+}
+
